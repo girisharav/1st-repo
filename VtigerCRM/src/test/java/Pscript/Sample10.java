@@ -10,5 +10,6 @@ public class Sample10
  {
 	 System.out.println("Sucess");
 	 Reporter.log("Success", true);
+	 //lead
  }
 }
